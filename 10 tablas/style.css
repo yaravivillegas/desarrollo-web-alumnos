@@ -1,0 +1,36 @@
+table {
+    border: 2px solid #0000AA;
+    border-collapse: collapse;
+    width: 60%;
+    height: 300px;
+}
+
+th,
+td {
+    border: 1px solid #0000AA;
+    font-family: arial;
+    font-size: 0.8em;
+    text-align: left;
+    padding: 2px;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-size: 1.2em;
+}
+
+.evenrow {
+    background-color: rgb(220, 220, 220);
+}
+
+.oddrow {
+    background-color: rgb(40, 40, 40);
+    color: white;
+}
+
+caption {
+    font-family: arial;
+    font-size: 1.15em;
+    caption-side: bottom;
+}
