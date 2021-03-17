@@ -1,0 +1,29 @@
+#div1,
+#div2 {
+    font-family: arial;
+    font-size: .9em;
+    width: 400px;
+    border: 1px solid black;
+}
+
+#div1 {
+    height: 50px;
+    overflow: auto;
+    /*scroll vertical*/
+    position: fixed;
+}
+
+
+/*
+#div1 {
+    display: inline;
+}
+
+p {
+    display: inline;
+}
+
+span {
+    display: block;
+}
+*/
