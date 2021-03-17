@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Cursos</h1>
+
+    <table>
+        <tr class="evenrow">
+            <th>Nombre del curso</th>
+            <th>Valoración</th>
+            <th>Duración</th>
+        </tr>
+
+        <tr class="oddrow">
+            <td>Bootcamp de videojuegos en 3D con Unreal Engine</td>
+            <td>5 estrellas</td>
+            <td>17.5 horas</td>
+        </tr>
+
+        <tr class="evenrow">
+            <td>Curso completo de análisis de datos con R</td>
+            <td>4.7 estrellas</td>
+            <td>50.5 horas</td>
+        </tr>
+
+        <tr class="oddrow">
+            <td>Bootcamp de videojuegos en 2D con Unity 5</td>
+            <td>4.7 estrellas</td>
+            <td>35 horas </td>
+        </tr>
+
+        <tr class="evenrow">
+            <td>Bootcamp de programación de apps para Android</td>
+            <td>4.6 estrellas</td>
+            <td>50 horas</td>
+        </tr>
+
+        <tr class="oddrow">
+            <td>Aprende a programar con los patrones de diseño para Android </td>
+            <td>4.6 estrellas</td>
+            <td>27 horas</td>
+        </tr>
+
+        <tr class="evenrow">
+            <td>Fundamentos del desarrollo de videojuegos para Unity 5</td>
+            <td>4.6 estrellas</td>
+            <td>35.5 horas</td>
+        </tr>
+
+        <tr class="oddrow">
+            <td>Curso completo de Swift 4, el lenguaje para hacer apps de Apple</td>
+            <td>4.9 estrellas</td>
+            <td>34 horas</td>
+        </tr>
+
+        <tr class="evenrow">
+            <td>Curso completo de iOS 11, de cero a experto</td>
+            <td>4.5 estrellas</td>
+            <td>56 horas</td>
+        </tr>
+        <caption>¡Cursos lanzados por el profesor Juan Gabriel Gomila en la plataforma de e-learning favorita de todos nosotros!</caption>
+    </table>
+</body>
+
+</html>
