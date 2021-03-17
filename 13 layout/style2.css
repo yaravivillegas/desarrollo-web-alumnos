@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+}
+
+#container {
+    background-color: #dddddd;
+    width: 800px;
+    margin: 0 auto;
+}
+
+#header h1 {
+    font-family: arial;
+    font-size: 1.4em;
+    font-weight: bold;
+    text-align: center;
+}
+
+#div1,
+#div2 {
+    font-family: arial;
+    font-size: 0.8em;
+    width: 390px;
+    padding: 3px;
+}
+
+#div1 {
+    float: left;
+}
+
+#div2 {
+    float: right;
+}
+
+#footer {
+    background-color: black;
+    color: white;
+    clear: both;
+}
+
+#footer p {
+    font-family: georgia;
+    font-size: 0.6em;
+    text-align: center;
+}
