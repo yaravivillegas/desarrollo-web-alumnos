@@ -1,0 +1,29 @@
+ul {
+    list-style-type: none;
+    /*borrar viñetas*/
+    margin: 0px;
+    padding: 0px;
+}
+
+li a:link,
+a:visited {
+    text-decoration: none;
+    /*borrar subrayado*/
+    color: #555555;
+    font-family: Georgia, times;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+li:hover {
+    background-color: #dddddd;
+}
+
+li {
+    display: inline;
+    /*barra de navegación horizontal*/
+    padding: 8px;
+    width: 200px;
+    margin: -5px;
+    background-color: silver;
+}
